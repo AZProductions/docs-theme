@@ -5,8 +5,8 @@ yarn-error.log
 .pnpm-debug.log
 dist
 */**/.turbo
-# Theme styles
-packages/nextra-theme-*/style.css
+# # Theme styles
+# packages/nextra-theme-*/style.css
 
 # Stork related
 */**/public/*.st
