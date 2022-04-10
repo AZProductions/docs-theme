@@ -6,7 +6,7 @@ yarn-error.log
 dist
 */**/.turbo
 # # Theme styles
-# packages/nextra-theme-*/style.css
+packages/nextra-theme-*/style.css
 
 # Stork related
 */**/public/*.st
